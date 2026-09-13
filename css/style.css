@@ -1,0 +1,96 @@
+body {
+    background-color: lavenderblush;
+    color: rgb(41, 32, 39);
+    font-size: 18px;
+    margin: 10px;
+    text-align: center;
+}
+
+.title {
+    color: hotpink;
+    text-align: center;
+    font-size: 100px;
+    box-sizing: content-box;
+}
+
+h2 {
+    color: rgb(232, 130, 173);
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+h3 {
+    color: rgb(240, 162, 148);
+    font-size: 25px;
+}
+
+#home {
+    background-color: rgb(218, 234, 239);
+    padding: 25px;
+    margin: 25px;
+}
+nav a {
+    color: rgb(229, 134, 117);
+    font-size: 20px;
+    margin: 15px;
+}
+#about {
+    background-color: rgb(229, 227, 242);
+    padding: 25px;
+    margin: 25px;
+}
+#bio {
+    background-color: rgb(231, 212, 226);
+    padding: 25px;
+    margin: 25px;
+}
+#skills {
+    background-color: rgb(217, 232, 226);
+    padding: 25px;
+    margin: 25px;
+}
+section {
+    background-color: white;
+    padding: 25px;
+    margin: 25px;
+}
+
+figure {
+    text-align: center;
+    margin: 30px;
+}
+
+figcaption {
+    color: rgb(128, 64, 230);
+    font-size: 20px;
+}
+
+form {
+    background-color: white;
+    padding: 25px;
+    margin: 25px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input,
+textarea {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: hotpink;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 15px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
